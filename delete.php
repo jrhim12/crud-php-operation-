@@ -1,6 +1,6 @@
 <?php
-
-include 'connect.php';
+//test
+include 'connect.php'; 
 
 if(isset($_GET['deleteid']))
 {
